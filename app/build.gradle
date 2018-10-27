@@ -6,7 +6,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "com.codemybrainsout.onboarding"
+        applicationId "com.eosinfotech.onboarder"
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 5
